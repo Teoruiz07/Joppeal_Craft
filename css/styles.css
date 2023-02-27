@@ -1,0 +1,129 @@
+body{
+    background-color: #FFFFFF;
+    text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #614124;
+}
+
+.big-heading{
+    line-height: 1.5;
+
+}
+
+.product-btn{
+    background-color: #614124;
+}
+
+.product-btn:hover{
+    background-color: #FFFFFF;
+    color: #614124;
+}
+.heading-div{
+    text-align: left;
+}
+.navbar{
+    padding-bottom: 2rem;
+    background-color: #FFFFFF;
+}
+
+.navbar-brand{
+    color: #614124;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-link{
+    color: #614124;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.dropdown-menu{
+    background-color: #FFFFFF;
+}
+
+.dropdown-item{
+    color: #614124;
+}
+
+.container-fluid{
+    padding: 1.5% 8%;
+}
+
+.image-div{
+    text-align: center;
+}
+
+.car-div{
+    width: 60%;
+    margin-left: 200px;
+}
+.car-image{
+    width: 20%;
+    border-radius: 20px;
+    margin: 1px;
+    height: 50%;
+}
+
+/*shop*/
+.shop-btn{
+   background-color: #614124;
+   color: #FFFFFF;
+   border-radius: 5px;
+}
+.shop-card{
+    border-color: #FFFFFF;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+}
+.shop-img-div{
+    background-color: beige;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.shop-img{
+    width: 80%;
+}
+
+.shop-row{
+    margin-top: 30px;
+}
+
+/*Footer*/
+#footer{
+    background-color: #614124;
+    color: #FFFFFF;
+}
+
+.footer-heading{
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-top: 1rem;
+}
+
+.footer-div{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.footer-link{
+    color: #FFFFFF;
+    margin-right: 2rem;
+}
+
+.c-22{
+    margin-top: 1rem;
+}
